@@ -1,25 +1,22 @@
+<?php
+require 'guardia.php';
+$seccion = $_GET['seccion'] ?? 'ayuda';
+?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Información · Cine</title>
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" type="image/svg+xml" href="assets/logo-icono.svg">
 </head>
 <body>
-    <?php
-  session_start();
-  if (!isset($_SESSION['usuario'])) {
-    header('Location: index.php');
-    exit;
-  }
-  $seccion = $_GET['seccion'] ?? 'ayuda';
-?>
 <?php include 'includes/header.php'; ?>
 
 <?php if ($seccion == 'ayuda'): ?>
   <h1>Ayuda</h1>
-  <p>Esto es un sistema de ejemplo. Logueate con admin / 1234.</p>
+  <p>Esto es un sistema de ejemplo. Podés crear tu cuenta desde Registrarse. Para probar: admin / 1234 (administrador) o juan / 5678.</p>
 <?php elseif ($seccion == 'contacto'): ?>
   <h1>Contacto</h1>
   <p>Escribinos a contacto@ejemplo.com</p>

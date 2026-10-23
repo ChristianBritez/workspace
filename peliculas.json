@@ -1,0 +1,394 @@
+{
+    "matrix": {
+        "titulo": "Matrix",
+        "anio": 1999,
+        "genero": "Ciencia ficción",
+        "imagen": "imagenes/matrix.jpg",
+        "sala": "sala1",
+        "horarios": [
+            "15:00",
+            "18:00",
+            "21:00"
+        ],
+        "dias": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    "coco": {
+        "titulo": "Coco",
+        "anio": 2017,
+        "genero": "Animación",
+        "imagen": "imagenes/coco.jpg",
+        "sala": "sala1",
+        "horarios": [
+            "13:00",
+            "15:00",
+            "16:30"
+        ],
+        "dias": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    "duna": {
+        "titulo": "Duna",
+        "anio": 2021,
+        "genero": "Ciencia ficción",
+        "imagen": "imagenes/duna.jpg",
+        "sala": "sala2",
+        "horarios": [
+            "18:00",
+            "21:00"
+        ],
+        "dias": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    "interestelar": {
+        "titulo": "Interestelar",
+        "anio": 2014,
+        "genero": "Ciencia ficción",
+        "imagen": "imagenes/interestelar.jpg",
+        "sala": "sala3",
+        "horarios": [
+            "19:30"
+        ],
+        "dias": [
+            4,
+            5,
+            6,
+            0
+        ]
+    },
+    "avengers-endgame": {
+        "titulo": "Avengers: Endgame",
+        "anio": 2019,
+        "genero": "Acción",
+        "imagen": "imagenes/avenger-endgame.jpg",
+        "sala": "sala2",
+        "horarios": [
+            "16:30",
+            "19:30",
+            "22:30"
+        ],
+        "dias": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    "black-panther": {
+        "titulo": "Black Panther",
+        "anio": 2018,
+        "genero": "Acción",
+        "imagen": "imagenes/black-panther.jpg",
+        "sala": "sala1",
+        "horarios": [
+            "15:00",
+            "19:30"
+        ],
+        "dias": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    "la-odisea": {
+        "titulo": "La Odisea",
+        "anio": 2026,
+        "genero": "Aventura",
+        "imagen": "imagenes/la-odisea.jpg",
+        "sala": "sala3",
+        "horarios": [
+            "18:00",
+            "21:00"
+        ],
+        "dias": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "trailer": "8un_UztYsw0"
+    },
+    "spider-man-brand-new-day": {
+        "titulo": "Spider-Man: Brand New Day",
+        "anio": 2026,
+        "genero": "Acción",
+        "imagen": "imagenes/spider-man-brand-new-day.jpg",
+        "sala": "sala2",
+        "horarios": [
+            "15:00",
+            "18:00",
+            "21:00",
+            "22:30"
+        ],
+        "dias": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "trailer": "Pw1X-57Ms-8"
+    },
+    "toy-story-5": {
+        "titulo": "Toy Story 5",
+        "anio": 2026,
+        "genero": "Animacion",
+        "imagen": "imagenes/toy-story-5.jpg",
+        "sala": "sala1",
+        "horarios": [
+            "13:00",
+            "15:00",
+            "16:30"
+        ],
+        "dias": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "trailer": ""
+    },
+    "Capitan America": {
+        "titulo": "Capitan America: un nuevo mundo",
+        "anio": 2025,
+        "genero": "Accion",
+        "imagen": "imagenes/capitan america.jpg",
+        "sala": "sala2",
+        "horarios": [
+            "13:00",
+            "15:00",
+            "16:30"
+        ],
+        "dias": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "trailer": ""
+    },
+    "mision imposible": {
+        "titulo": "Mision imposible: la sentencia final",
+        "anio": 2025,
+        "genero": "Accion",
+        "imagen": "imagenes/mision imposible.jpg",
+        "sala": "sala3",
+        "horarios": [
+            "13:00",
+            "15:00",
+            "16:30"
+        ],
+        "dias": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "trailer": ""
+    },
+    "f1 la pelicula": {
+        "titulo": "F1 la pelicula",
+        "anio": 2025,
+        "genero": "deporte/Accion",
+        "imagen": "imagenes/f1 la pelicula.jpg",
+        "sala": "sala1",
+        "horarios": [
+            "13:00",
+            "15:00",
+            "16:30"
+        ],
+        "dias": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "trailer": ""
+    },
+    "lilo y stich": {
+        "titulo": "lilo & stitch (live action)",
+        "anio": 2025,
+        "genero": "comedia",
+        "imagen": "imagenes/lilo y stich.jpg",
+        "sala": "sala2",
+        "horarios": [
+            "13:00",
+            "15:00",
+            "16:30"
+        ],
+        "dias": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "trailer": ""
+    },
+    "como entrenar a tu dragon": {
+        "titulo": "Como entrenar a tu dragon",
+        "anio": 2025,
+        "genero": "Aventura",
+        "imagen": "imagenes/como entrenar a tu dragon.jpg",
+        "sala": "sala3",
+        "horarios": [
+            "13:00",
+            "15:00",
+            "16:30"
+        ],
+        "dias": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "trailer": "Ns6ZEpQ1xS0"
+    },
+    "zootopia 2": {
+        "titulo": "Zootopia 2",
+        "anio": 2025,
+        "genero": "comedia",
+        "imagen": "imagenes/zootopia 2.jpg",
+        "sala": "sala1",
+        "horarios": [
+            "13:00",
+            "15:00",
+            "16:30"
+        ],
+        "dias": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "trailer": "7gytUpiues8"
+    },
+    "conjuro 4": {
+        "titulo": "El conjuro 4: Los ultimos ritos",
+        "anio": 2025,
+        "genero": "terror",
+        "imagen": "imagenes/conjuro 4.jpg",
+        "sala": "sala2",
+        "horarios": [
+            "13:00",
+            "15:00",
+            "16:30",
+            "19:30",
+            "21:00",
+            "22:00"
+        ],
+        "dias": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "trailer": ""
+    },
+    "28 años despues": {
+        "titulo": "Exterminio: el templo de huesos",
+        "anio": 2025,
+        "genero": "terror",
+        "imagen": "imagenes/28 años despues.jpg",
+        "sala": "sala3",
+        "horarios": [
+            "13:00",
+            "15:00",
+            "16:30",
+            "19:30",
+            "21:00",
+            "22:00"
+        ],
+        "dias": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "trailer": ""
+    },
+    "el telefono negro 2": {
+        "titulo": "Telefono negro 2",
+        "anio": 2025,
+        "genero": "terror",
+        "imagen": "imagenes/el telefono negro 2.jpg",
+        "sala": "sala1",
+        "horarios": [
+            "13:00",
+            "15:00",
+            "16:30",
+            "19:30",
+            "21:00",
+            "22:00"
+        ],
+        "dias": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "trailer": ""
+    }
+}

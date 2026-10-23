@@ -1,0 +1,12 @@
+{
+    "chris": {
+        "hash": "$2y$10$rkgQ43jy3y/GhzHr31gk1.SjgFobsQXVT/7IRoL41o1VS5OBISJ/u",
+        "rol": "usuario",
+        "creado": "2026-10-09 23:53:55"
+    },
+    "isaias": {
+        "hash": "$2y$10$UeJLbdOgd8alDBj321HbNOCeT4osvfjDGfAwoOzrPH0zSwLHjbKXG",
+        "rol": "usuario",
+        "creado": "2026-10-22 20:55:02"
+    }
+}

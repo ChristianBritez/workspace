@@ -1,21 +1,13 @@
 <?php
-return [
-    'matrix' => [
-        'titulo' => 'Matrix',
-        'anio' => 1999,
-        'genero' => 'Ciencia ficción',
-        'imagen' => 'imagenes/matrix.jpg'
-    ],
-    'coco' => [
-        'titulo' => 'Coco',
-        'anio' => 2017,
-        'genero' => 'Animación',
-        'imagen' => 'imagenes/coco.jpg'
-    ],
-    'duna' => [
-        'titulo' => 'Duna',
-        'anio' => 2021,
-        'genero' => 'Ciencia ficción',
-        'imagen' => 'imagenes/duna.jpg'
-    ],
-];
+// Lee las películas desde peliculas.json
+// (cartelera.php y pelicula.php siguen usando: $peliculas = require 'datos.php';)
+
+$archivo = __DIR__ . '/peliculas.json';
+
+if (!file_exists($archivo)) {
+    return [];
+}
+
+$datos = json_decode(file_get_contents($archivo), true);
+
+return is_array($datos) ? $datos : [];

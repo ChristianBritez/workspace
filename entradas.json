@@ -1,0 +1,80 @@
+[
+    {
+        "codigo": "B89DC791",
+        "usuario": "chris",
+        "pelicula_id": "spider-man-brand-new-day",
+        "titulo": "Spider-Man: Brand New Day",
+        "sala": "Sala 2 · 3D",
+        "fecha": "2026-10-15",
+        "hora": "15:00",
+        "asientos": [
+            "B4",
+            "D8"
+        ],
+        "precio_entrada": 10000,
+        "combos": [],
+        "subtotal": 20000,
+        "codigo_descuento": "ESTUDIANTE",
+        "descuento": 4000,
+        "total": 16000,
+        "comprado": "2026-10-10 00:42:59"
+    },
+    {
+        "codigo": "5AC6F731",
+        "usuario": "chris",
+        "pelicula_id": "spider-man-brand-new-day",
+        "titulo": "Spider-Man: Brand New Day",
+        "sala": "Sala 2 · 3D",
+        "fecha": "2026-10-22",
+        "hora": "21:00",
+        "asientos": [
+            "A2",
+            "A3"
+        ],
+        "precio_entrada": 10000,
+        "combos": [
+            {
+                "nombre": "Pochoclo chico",
+                "cantidad": 2,
+                "precio": 3500
+            }
+        ],
+        "subtotal": 27000,
+        "codigo_descuento": "ESTUDIANTE",
+        "descuento": 5400,
+        "total": 21600,
+        "comprado": "2026-10-22 20:53:26"
+    },
+    {
+        "codigo": "8F0DC1CD",
+        "usuario": "isaias",
+        "pelicula_id": "Capitan America",
+        "titulo": "Capitan America: un nuevo mundo",
+        "sala": "Sala 2 · 3D",
+        "fecha": "2026-10-23",
+        "hora": "13:00",
+        "asientos": [
+            "B3"
+        ],
+        "precio_entrada": 10000,
+        "combos": [
+            {
+                "nombre": "Pochoclo chico",
+                "cantidad": 1,
+                "precio": 3500
+            },
+            {
+                "nombre": "Gaseosa",
+                "cantidad": 1,
+                "precio": 2500
+            }
+        ],
+        "subtotal": 16000,
+        "codigo_descuento": "ESTUDIANTE",
+        "descuento": 3200,
+        "total": 12800,
+        "comprado": "2026-10-22 20:55:44",
+        "estado": "cancelada",
+        "cancelada_en": "2026-10-22 20:58:05"
+    }
+]
