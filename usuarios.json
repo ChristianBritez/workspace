@@ -8,5 +8,10 @@
         "hash": "$2y$10$UeJLbdOgd8alDBj321HbNOCeT4osvfjDGfAwoOzrPH0zSwLHjbKXG",
         "rol": "usuario",
         "creado": "2026-10-22 20:55:02"
+    },
+    "kamila": {
+        "hash": "$2y$10$bsfFg/YHb22cL77phoQkW.MAvN3wVd2ySVDWXO80oFkAT6M2uWUFm",
+        "rol": "usuario",
+        "creado": "2026-10-23 18:52:30"
     }
 }

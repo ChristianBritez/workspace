@@ -11,14 +11,15 @@
             "21:00"
         ],
         "dias": [
-            0,
             1,
             2,
             3,
             4,
             5,
-            6
-        ]
+            6,
+            0
+        ],
+        "trailer": "OM0tSTEQCQA"
     },
     "coco": {
         "titulo": "Coco",
@@ -32,14 +33,15 @@
             "16:30"
         ],
         "dias": [
-            0,
             1,
             2,
             3,
             4,
             5,
-            6
-        ]
+            6,
+            0
+        ],
+        "trailer": "h9Unr35ws-E"
     },
     "duna": {
         "titulo": "Duna",
@@ -52,14 +54,15 @@
             "21:00"
         ],
         "dias": [
-            0,
             1,
             2,
             3,
             4,
             5,
-            6
-        ]
+            6,
+            0
+        ],
+        "trailer": "TTgk_iT8Uts"
     },
     "interestelar": {
         "titulo": "Interestelar",
@@ -75,7 +78,8 @@
             5,
             6,
             0
-        ]
+        ],
+        "trailer": "5mAbnQQiPD8"
     },
     "avengers-endgame": {
         "titulo": "Avengers: Endgame",
@@ -89,14 +93,15 @@
             "22:30"
         ],
         "dias": [
-            0,
             1,
             2,
             3,
             4,
             5,
-            6
-        ]
+            6,
+            0
+        ],
+        "trailer": "KdL8ucqi1F8"
     },
     "black-panther": {
         "titulo": "Black Panther",
@@ -109,14 +114,15 @@
             "19:30"
         ],
         "dias": [
-            0,
             1,
             2,
             3,
             4,
             5,
-            6
-        ]
+            6,
+            0
+        ],
+        "trailer": "wp_QaWgfZDc"
     },
     "la-odisea": {
         "titulo": "La Odisea",
@@ -182,7 +188,7 @@
             6,
             0
         ],
-        "trailer": ""
+        "trailer": "FJiwQyXuHUA"
     },
     "Capitan America": {
         "titulo": "Capitan America: un nuevo mundo",
@@ -204,7 +210,7 @@
             6,
             0
         ],
-        "trailer": ""
+        "trailer": "i0zaDSsk08w"
     },
     "mision imposible": {
         "titulo": "Mision imposible: la sentencia final",
@@ -226,7 +232,7 @@
             6,
             0
         ],
-        "trailer": ""
+        "trailer": "A6VZHeeZGgk"
     },
     "f1 la pelicula": {
         "titulo": "F1 la pelicula",
@@ -248,7 +254,7 @@
             6,
             0
         ],
-        "trailer": ""
+        "trailer": "SaxjZrRONog"
     },
     "lilo y stich": {
         "titulo": "lilo & stitch (live action)",
@@ -327,8 +333,7 @@
             "15:00",
             "16:30",
             "19:30",
-            "21:00",
-            "22:00"
+            "21:00"
         ],
         "dias": [
             1,
@@ -339,7 +344,7 @@
             6,
             0
         ],
-        "trailer": ""
+        "trailer": "HFEoFlccCr0"
     },
     "28 años despues": {
         "titulo": "Exterminio: el templo de huesos",

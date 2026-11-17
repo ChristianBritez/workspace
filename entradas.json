@@ -76,5 +76,63 @@
         "comprado": "2026-10-22 20:55:44",
         "estado": "cancelada",
         "cancelada_en": "2026-10-22 20:58:05"
+    },
+    {
+        "codigo": "5CE27273",
+        "usuario": "kamila",
+        "pelicula_id": "interestelar",
+        "titulo": "Interestelar",
+        "sala": "Sala 3 · VIP",
+        "fecha": "2026-10-23",
+        "hora": "19:30",
+        "asientos": [
+            "D1"
+        ],
+        "precio_entrada": 12000,
+        "combos": [
+            {
+                "nombre": "Pochoclo grande",
+                "cantidad": 1,
+                "precio": 5500
+            },
+            {
+                "nombre": "Gaseosa",
+                "cantidad": 1,
+                "precio": 2500
+            }
+        ],
+        "subtotal": 20000,
+        "codigo_descuento": "ESTUDIANTE",
+        "descuento": 4000,
+        "total": 16000,
+        "comprado": "2026-10-23 18:54:02"
+    },
+    {
+        "codigo": "395364FD",
+        "usuario": "chris",
+        "pelicula_id": "conjuro 4",
+        "titulo": "El conjuro 4: Los ultimos ritos",
+        "sala": "Sala 2 · 3D",
+        "fecha": "2026-10-23",
+        "hora": "19:30",
+        "asientos": [
+            "B3",
+            "B4",
+            "C8",
+            "C9"
+        ],
+        "precio_entrada": 10000,
+        "combos": [
+            {
+                "nombre": "Combo familiar",
+                "cantidad": 1,
+                "precio": 16000
+            }
+        ],
+        "subtotal": 56000,
+        "codigo_descuento": "ESTUDIANTE",
+        "descuento": 11200,
+        "total": 44800,
+        "comprado": "2026-10-23 18:56:54"
     }
 ]
